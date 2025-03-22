@@ -1,0 +1,26 @@
+{
+    "sore throat": {
+        "tea": "Ginger Tea",
+        "benefits": ["Anti-inflammatory", "Soothes irritation"],
+        "ingredients": ["Fresh ginger root (1-inch piece)", "Water (2 cups)", "Honey"],
+        "recipe": [
+            "Peel and slice ginger root.",
+            "Boil water and add ginger slices.",
+            "Simmer for 5-10 minutes, then add honey and enjoy."
+        ],
+        "youtube_keywords": "ginger tea for sore throat benefits",
+        "article_keywords": "ginger tea medicinal properties"
+    },
+    "can't sleep": {
+        "tea": "Chamomile Tea",
+        "benefits": ["Promotes relaxation", "Reduces anxiety"],
+        "ingredients": ["Dried chamomile flowers (1 tbsp)", "Water (1 cup)", "Honey (optional)"],
+        "recipe": [
+            "Heat water (not fully boiling).",
+            "Steep chamomile flowers for 5 minutes.",
+            "Add honey if desired and sip before bedtime."
+        ],
+        "youtube_keywords": "chamomile tea sleep benefits recipe",
+        "article_keywords": "chamomile tea insomnia clinical studies"
+    }
+}
