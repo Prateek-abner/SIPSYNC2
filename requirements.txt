@@ -1,0 +1,5 @@
+streamlit
+cohere
+python-dotenv
+google-api-python-client
+requests
