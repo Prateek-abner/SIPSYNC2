@@ -78,12 +78,12 @@ pip install -r requirements.txt
 
 4. Set up environment variables:
 Create a `.env` file in the project root with your API keys:
-COHERE_API_KEY=your_cohere_api_key_here
-GOOGLE_CLOUD_API_KEY=your_google_cloud_api_key_here
-OPENWEATHER_API_KEY=your_openweather_api_key_here
+- COHERE_API_KEY=your_cohere_api_key_here
+- GOOGLE_CLOUD_API_KEY=your_google_cloud_api_key_here
+- OPENWEATHER_API_KEY=your_openweather_api_key_here
 
 
-5. Run the application:
+6. Run the application:
 ```bash
 cd UPDATED
 streamlit run app.py
